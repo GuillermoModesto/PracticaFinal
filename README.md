@@ -10,9 +10,3 @@ DEPORTES:
 
 	Respirar
 	Estar de pie durante mas de 5 minutos
-
-FAVORITAS:
-
-	After the Burial - Berzerker
-	Baroness - Shock Me
-	Hayloft - Mother Mother
